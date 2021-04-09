@@ -5,3 +5,7 @@ moving average strategy for CCASS stock IDs, prices fetched using yahoo fix fina
 pip3 install requirement.txt
 
 python3 moving\_avg\_crossover.py
+
+ambikeshwar
+
+pwd=P@ssw0rd
