@@ -13,7 +13,8 @@ import fix_yahoo_finance as yf
 from pandas.tseries.offsets import BDay
 
 
-
+pwd:P@ssw0rd
+username=ambi
 class BackTesting(object):
     DEFAULT_INITIAL_CAPITAL = float(1000000.0)
 
