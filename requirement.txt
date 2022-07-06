@@ -1,7 +1,7 @@
 beautifulsoup4==4.7.1
 bs4==0.0.1
 fix-yahoo-finance==0.1.30
-lxml==4.3.3
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 multitasking==0.0.7
